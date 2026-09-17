@@ -1,0 +1,12 @@
+[
+  {"model":"S-Class","filename":"mercedes-s-class.jpg","category":"Luxury executive sedan","year":2024},
+  {"model":"E-Class","filename":"mercedes-e-class.jpg","category":"Executive sedan","year":2024},
+  {"model":"C-Class","filename":"mercedes-c-class.jpg","category":"Premium compact sedan","year":2024},
+  {"model":"GLE","filename":"mercedes-gle.jpg","category":"Luxury SUV","year":2024},
+  {"model":"GLS","filename":"mercedes-gls.jpg","category":"Full-size luxury SUV","year":2024},
+  {"model":"G-Class (G-Wagon)","filename":"mercedes-g-class.jpg","category":"Luxury off-road SUV","year":2024},
+  {"model":"AMG SL Roadster","filename":"mercedes-amg-sl-roadster.jpg","category":"High-performance roadster","year":2024},
+  {"model":"EQS Sedan","filename":"mercedes-eqs.jpg","category":"Luxury electric sedan","year":2024},
+  {"model":"EQE SUV","filename":"mercedes-eqe-suv.jpg","category":"Luxury electric SUV","year":2024},
+  {"model":"V-Class","filename":"mercedes-v-class.jpg","category":"Luxury passenger van","year":2024}
+]
